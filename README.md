@@ -1,5 +1,0 @@
-# iFlame Motorsport
-## Introduction
-iFlame Motorsport is the social network dedicated to automotive enthusiasts and professionals. With an unwavering passion for the world of engines, this platform promises to unite people from all parts of the globe, connecting them through their shared admiration for cars, racing and automotive culture. 
-At iFlame Motorsport, it's not just about sharing car photos and telling road stories. It's about building a vibrant and dynamic community where drivers, drift teams, event organizers, photographers and all automotive aficionados can connect, interact and celebrate their passion in a welcoming and dedicated environment. 
-Our platform offers a range of features designed to meet the diverse needs and interests of our community. From creating and customizing profiles, to organizing and participating in exciting events, it is the ultimate meeting point for all car lovers. Join us as we explore the endless possibilities the automotive world has to offer. Get ready to accelerate with us on this exciting journey through the universe of engines.
